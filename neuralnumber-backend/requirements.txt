@@ -1,0 +1,1 @@
+# requirements.txt — Python dependencies for NeuralNumber backend
