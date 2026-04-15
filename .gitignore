@@ -1,7 +1,7 @@
 # =============================================
 # Data (too large to track, except sample)
 # =============================================
-# data/
+data/
 !data/sample/
 !data/sample/**
 
