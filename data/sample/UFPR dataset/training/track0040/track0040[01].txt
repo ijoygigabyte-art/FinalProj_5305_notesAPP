@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 837 403 175 386
+	type: motorcycle
+	make: Suzuki
+	model: Intruder
+	year: 2014
+plate: AYF2480
+corners: 900,660 948,665 946,705 897,700
+	char 1: 906 669 8 15
+	char 2: 919 671 9 14
+	char 3: 931 673 10 14
+	char 4: 902 682 10 16
+	char 5: 912 684 9 14
+	char 6: 922 686 9 14
+	char 7: 932 688 9 13

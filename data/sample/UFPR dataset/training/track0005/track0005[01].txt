@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 783 341 253 234
+	type: car
+	make: Volkswagen
+	model: Fox
+	year: 2007
+plate: AOM8734
+corners: 879,501 940,503 941,520 879,520
+	char 1: 881 508 8 10
+	char 2: 889 507 7 11
+	char 3: 897 507 7 11
+	char 4: 907 507 7 11
+	char 5: 915 507 7 11
+	char 6: 923 507 7 11
+	char 7: 930 507 8 11

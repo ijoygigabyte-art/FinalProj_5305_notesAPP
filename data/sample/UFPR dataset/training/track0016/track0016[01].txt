@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 655 373 244 205
+	type: car
+	make: Fiat
+	model: Siena
+	year: 2015
+plate: AZU5133
+corners: 732,516 792,515 792,536 731,537
+	char 1: 734 522 7 12
+	char 2: 741 522 8 12
+	char 3: 749 522 7 12
+	char 4: 759 522 8 12
+	char 5: 768 521 4 13
+	char 6: 773 521 8 12
+	char 7: 781 521 7 12

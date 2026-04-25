@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 445 310 325 221
+	type: car
+	make: Volkswagen
+	model: Voyage
+	year: 2010
+plate: AVC2257
+corners: 511,465 571,464 569,482 509,483
+	char 1: 511 470 7 13
+	char 2: 519 470 7 12
+	char 3: 526 470 8 12
+	char 4: 537 469 8 12
+	char 5: 545 469 8 12
+	char 6: 553 468 8 12
+	char 7: 561 468 7 12

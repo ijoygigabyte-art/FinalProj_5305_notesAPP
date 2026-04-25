@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 837 243 177 495
+	type: motorcycle
+	make: Honda
+	model: CG
+	year: 2010
+plate: ASY1351
+corners: 905,544 962,543 963,576 906,578
+	char 1: 915 551 9 14
+	char 2: 929 551 10 12
+	char 3: 943 550 9 13
+	char 4: 916 564 4 12
+	char 5: 924 564 10 12
+	char 6: 935 563 10 12
+	char 7: 949 562 4 13

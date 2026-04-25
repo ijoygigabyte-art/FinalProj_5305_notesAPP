@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 726 439 539 432
+	type: car
+	make: Volkswagen
+	model: Gol
+	year: 1988
+plate: CBB1894
+corners: 918,642 1054,644 1052,685 914,684
+	char 1: 921 656 16 24
+	char 2: 938 657 16 23
+	char 3: 955 658 16 23
+	char 4: 984 657 7 24
+	char 5: 997 658 16 23
+	char 6: 1014 658 16 23
+	char 7: 1031 658 15 23

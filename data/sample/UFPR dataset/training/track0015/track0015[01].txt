@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 940 0 616 629
+	type: car
+	make: Thermo Sara
+	model: Baú
+	year: 2009
+plate: MFS2455
+corners: 1058,496 1140,501 1139,526 1056,522
+	char 1: 1059 504 11 17
+	char 2: 1070 504 11 17
+	char 3: 1081 505 10 17
+	char 4: 1095 506 12 17
+	char 5: 1107 507 9 17
+	char 6: 1117 507 10 17
+	char 7: 1127 508 10 16

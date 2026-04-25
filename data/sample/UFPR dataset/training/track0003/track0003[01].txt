@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 740 317 309 292
+	type: car
+	make: Fiat
+	model: Palio Weekend
+	year: 2011
+plate: AEI6611
+corners: 853,467 939,467 939,495 853,494
+	char 1: 859 477 9 14
+	char 2: 869 476 10 16
+	char 3: 881 476 5 16
+	char 4: 894 476 10 16
+	char 5: 904 476 10 17
+	char 6: 917 476 4 16
+	char 7: 927 476 4 17

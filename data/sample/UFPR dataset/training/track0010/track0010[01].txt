@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 718 211 286 266
+	type: car
+	make: GM Chevrolet
+	model: Spin
+	year: 2016
+plate: PYO6759
+corners: 828,415 901,415 903,440 828,441
+	char 1: 833 424 8 14
+	char 2: 842 424 8 14
+	char 3: 850 424 8 14
+	char 4: 864 424 8 13
+	char 5: 872 424 8 13
+	char 6: 881 424 8 13
+	char 7: 890 424 8 13

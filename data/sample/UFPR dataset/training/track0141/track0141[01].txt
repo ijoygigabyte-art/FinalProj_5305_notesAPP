@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 870 464 783 616
+	type: car
+	make: Renault
+	model: Logan
+	year: 2012
+plate: AWE4633
+corners: 1108,914 1307,928 1304,992 1102,975
+	char 1: 1112 934 23 38
+	char 2: 1137 935 24 38
+	char 3: 1159 938 26 39
+	char 4: 1196 943 24 34
+	char 5: 1222 944 23 36
+	char 6: 1247 947 23 35
+	char 7: 1272 947 22 38
