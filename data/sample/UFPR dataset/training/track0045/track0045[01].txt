@@ -1,0 +1,15 @@
+camera: iPhone 7 Plus
+position_vehicle: 638 497 415 368
+	type: car
+	make: Fiat
+	model: Siena
+	year: 2007
+plate: AOU4672
+corners: 791,749 903,752 903,788 789,784
+	char 1: 793 761 16 20
+	char 2: 812 762 13 18
+	char 3: 829 763 13 18
+	char 4: 848 763 12 19
+	char 5: 862 764 11 18
+	char 6: 874 764 11 19
+	char 7: 887 765 11 18

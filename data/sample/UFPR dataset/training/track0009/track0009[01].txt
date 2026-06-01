@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 675 267 317 269
+	type: car
+	make: Volkswagen
+	model: Gol
+	year: 2012
+plate: AVC5538
+corners: 784,456 873,458 873,487 786,484
+	char 1: 788 466 10 16
+	char 2: 799 465 11 17
+	char 3: 809 466 11 16
+	char 4: 825 466 11 17
+	char 5: 836 466 10 17
+	char 6: 846 467 11 16
+	char 7: 857 467 10 16

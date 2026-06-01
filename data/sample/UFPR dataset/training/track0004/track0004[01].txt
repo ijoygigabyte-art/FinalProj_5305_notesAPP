@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 780 357 197 173
+	type: car
+	make: Fiat
+	model: Palio
+	year: 2010
+plate: ASG3793
+corners: 850,477 903,477 903,495 850,495
+	char 1: 852 483 6 10
+	char 2: 859 483 6 10
+	char 3: 865 483 7 10
+	char 4: 875 483 6 10
+	char 5: 881 483 6 10
+	char 6: 888 483 6 9
+	char 7: 894 483 6 9

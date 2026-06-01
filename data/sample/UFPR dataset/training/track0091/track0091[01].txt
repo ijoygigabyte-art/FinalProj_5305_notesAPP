@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 763 329 250 232
+	type: car
+	make: Ford
+	model: EcoSport
+	year: 2013
+plate: MLS5511
+corners: 856,504 919,504 919,525 856,525
+	char 1: 859 510 7 12
+	char 2: 867 510 7 12
+	char 3: 874 511 7 11
+	char 4: 885 511 7 11
+	char 5: 893 511 7 11
+	char 6: 902 511 3 12
+	char 7: 909 511 4 12

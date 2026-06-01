@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 808 311 301 277
+	type: car
+	make: Suzuki
+	model: Grand Vitara
+	year: 2013
+plate: AXV8804
+corners: 912,526 986,531 983,553 912,550
+	char 1: 915 534 8 14
+	char 2: 923 534 9 14
+	char 3: 932 535 9 13
+	char 4: 945 536 9 13
+	char 5: 954 536 8 13
+	char 6: 963 537 8 12
+	char 7: 971 537 8 13

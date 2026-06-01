@@ -1,0 +1,15 @@
+camera: GoPro Hero4 Silver
+position_vehicle: 786 359 249 197
+	type: car
+	make: GM Chevrolet
+	model: Cruze
+	year: 2012
+plate: AVL8477
+corners: 883,451 945,452 945,472 883,471
+	char 1: 887 457 7 11
+	char 2: 894 457 7 11
+	char 3: 902 457 7 11
+	char 4: 913 458 7 11
+	char 5: 920 458 7 11
+	char 6: 928 458 7 11
+	char 7: 935 458 7 12

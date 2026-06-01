@@ -1,0 +1,15 @@
+camera: Huawei P9 Lite
+position_vehicle: 651 430 317 280
+	type: car
+	make: Fiat
+	model: Palio
+	year: 2009
+plate: ARK5232
+corners: 771,618 851,618 852,640 772,641
+	char 1: 774 626 10 15
+	char 2: 784 625 10 15
+	char 3: 794 625 11 16
+	char 4: 809 625 10 15
+	char 5: 819 625 10 15
+	char 6: 829 625 10 15
+	char 7: 839 625 11 15
